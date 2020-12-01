@@ -7,8 +7,9 @@ const Home = () => {
   return (
     <>
       {/* You need to use your shared header component... */}
+      <Header/>
       {/* You need a link to your about page as a call to action */}
-      
+      <button><Link to = "/About">Call To Action Button</Link></button>
     </> )
 }
  
