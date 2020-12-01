@@ -8,9 +8,8 @@ const Home = () => {
     <>
       {/* You need to use your shared header component... */}
       {/* You need a link to your about page as a call to action */}
-      <button><Link to="/About">L</Link></button>
+      
     </>
-  );
 }
  
 export default Home;
