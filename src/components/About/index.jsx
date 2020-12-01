@@ -4,8 +4,8 @@ import Header from '../shared/Header';
 const Home = () => {
   return (
     <> 
-      {(Header)/* You need to use your shared header component... */}
-      {paragraph/* You need a paragraph describing a fun fact about you */}
+      {/* You need to use your shared header component... */}
+      {/* You need a paragraph describing a fun fact about you */}
       
     </>
   );
