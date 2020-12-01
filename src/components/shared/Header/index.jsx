@@ -4,7 +4,7 @@ import Styles from './styles.css';
 const Header = ({title}) => {
   return (
     <Styles.Header>
-      <header>{title = "Simran"}React heroku Lab-2</header>
+      <h1>{title = "Simran"}React heroku Lab-2</h1>
     </Styles.Header>
   );
 }
